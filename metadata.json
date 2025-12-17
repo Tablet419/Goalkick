@@ -1,0 +1,5 @@
+{
+  "name": "GoalKick AI Predictor",
+  "description": "High-accuracy real-time soccer prediction engine using advanced AI analysis of standings, H2H, and form.",
+  "requestFramePermissions": []
+}
